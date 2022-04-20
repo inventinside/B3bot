@@ -32,7 +32,7 @@ Body Brackets:
 (1x)B - upper bracket,  gap: motor_offset:
 
 Gears:
-(2x)A - 50 tooth id:, t:
+(2x)A - 50 tooth id:, t:   [35g 1h6min]
 (2x)B - 40 tooth, id:, t:
 (4x)Motor Gear - 10 tooth, id:, t:
 (2x)Gear with shaft - 25 tooth id: od: length:
