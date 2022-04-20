@@ -41,9 +41,9 @@ Gears:
 
 Hardware:
 Bearing, 3 sizes
-Large - 4x
-Medium - 4x
-Small - 4x
+Large - (6806 RS)- 4x [41mm-od 31mm-id 7mm-h]
+Medium (6802 RS) - 4x [23mm-od 16mm-id 5mm-h]
+Small - (623Z) 4x [10mm-od 3mm-id (3-4)mm-h]
 
 Motors:
 Nema-17x25mm (2x)
