@@ -28,14 +28,14 @@ Material tested:
 PTEG = GOOD, Gears on the motors skip, need something more stiff. Very good for brackets.
 
 Body Brackets:
-(1x)A - lower bracket,  gap: motor_offset:
-(1x)B - upper bracket,  gap: motor_offset:
+(1x)A - lower bracket,  gap: motor_offset: [g min]
+(1x)B - upper bracket,  gap: motor_offset: [g min]
 
 Gears:
 (2x)A - 50 tooth id:, t:   [35g 1h6min]
-(2x)B - 40 tooth, id:, t:
-(4x)Motor Gear - 10 tooth, id:, t:
-(2x)Gear with shaft - 25 tooth id: od: length:
+(2x)B - 40 tooth, id:, t: [g min]
+(4x)Motor Gear - 10 tooth, id:, t: [4g 5min]
+(2x)Gear with shaft - 25 tooth id: od: length: [g min]
 
 Hardware:
 Bearing, 3 sizes
